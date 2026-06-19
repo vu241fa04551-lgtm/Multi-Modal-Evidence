@@ -1,0 +1,35 @@
+{
+  "total_rows": 20,
+  "metrics": {
+    "claim_status": {
+      "matches": 3,
+      "total": 20,
+      "accuracy": 0.15
+    },
+    "issue_type": {
+      "matches": 3,
+      "total": 20,
+      "accuracy": 0.15
+    },
+    "severity": {
+      "matches": 3,
+      "total": 20,
+      "accuracy": 0.15
+    },
+    "evidence_standard_met": {
+      "matches": 3,
+      "total": 20,
+      "accuracy": 0.15
+    },
+    "valid_image": {
+      "matches": 2,
+      "total": 20,
+      "accuracy": 0.1
+    },
+    "object_part": {
+      "matches": 1,
+      "total": 20,
+      "accuracy": 0.05
+    }
+  }
+}
